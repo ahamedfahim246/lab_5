@@ -14,3 +14,4 @@ Happy Gaming!
 
 
 P.S. Game is very very hard to play. You might adjust some of the parameters in the source code...
+# lab_5
