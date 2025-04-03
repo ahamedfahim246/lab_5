@@ -1,1 +1,3 @@
 I Lachoneus, have added this txt
+Ahamed has added this text to make sure that he can add multiple commits to 
+the same pull request
